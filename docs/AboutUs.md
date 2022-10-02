@@ -32,7 +32,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 <img src="images/chustinjeng.png" width="200px">
 
-[[github](http://github.com/Chustinjeng)] [[portfolio](team/Chustinjeng.md)]
+[[github](http://github.com/Chustinjeng)] [[portfolio](team/chustinjeng.md)]
 
 * Role: Developer
 * Responsibilities: Data
